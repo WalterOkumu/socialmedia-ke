@@ -1,7 +1,7 @@
 const Cards = () => {
 
     return (
-        <div className="pt-28 mx-auto">
+        <div className="pt-24 mx-auto">
             <h3 className="text-3xl font-bold text-center pb-10">What we offer</h3>
             <div className="mt-6 flex md:flex-row flex-col mx-auto justify-center items-center gap-8 w-full">
                 <div className="bg-[#FBED04] p-4 text-center leading-relaxed rounded-md w-3/5 md:w-[18rem] h-[20'rem] border cursor-pointer hover:shadow-xl duration-500 ease-out">

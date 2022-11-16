@@ -3,7 +3,7 @@ const Form = () => {
 
     return (
      <div className="mt-28 mx-auto md:w-2/4 px-5">
-        <h3 className="text-center text-3xl font-bold mb-8">Fill in the fields below to obtain the desired information free of charge</h3>
+        <h3 className="text-left text-3xl font-bold mb-8 pl-5">Fill in the fields below to obtain the desired information free of charge</h3>
 
             <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
                     <div className="ml-form-align-center">
