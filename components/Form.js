@@ -2,9 +2,9 @@
 const Form = () => {
 
     return (
-     <div className="mt-20 mx-auto md:w-2/4 px-5">
-        <h2 className="text-left text-5xl font-bold mb-8 pl-7 text-[#FDEA03]"> What we promise? More than likes, strategic management of your social networks! </h2> 
-        <h3 className="pl-8">Fill in the fields below to obtain our Black Friday special offer</h3>
+     <div className="md:mt-20 mt-14 mx-auto md:w-2/4 px-5 mb-10">
+        <h2 className="text-left md:text-5xl text-4xl font-bold mb-8 text-[#FDEA03]"> What do we promise? More than likes, strategic management of your social networks! </h2> 
+        <h3 className="text-left mb-4">Fill in the fields below to obtain our Black Friday special offer</h3>
 
             <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
                     <div className="ml-form-align-center">

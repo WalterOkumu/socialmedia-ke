@@ -10,7 +10,7 @@ const Top = () => {
             <div className="flex md:flex-row flex-col-reverse text-[#f8f8ff]">
                 
                 <Form />
-                <div className="md:w-1/2 w-full">
+                <div className="md:w-1/2 w-full self-center">
                     <Image src={media} width={1090} height={1000} alt="Black Friday" className="object-contain "/>
                 </div>
             </div>
