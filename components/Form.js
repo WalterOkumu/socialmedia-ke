@@ -4,7 +4,7 @@ const Form = () => {
     return (
      <div className="md:mt-20 mt-14 mx-auto md:w-2/4 px-5 mb-10">
         <h2 className="text-left md:text-5xl text-4xl font-bold mb-8 text-[#FDEA03]"> What do we promise? More than likes, strategic management of your social networks! </h2> 
-        <h3 className="text-left mb-4">Fill in the fields below to obtain our Black Friday special offer</h3>
+        <h3 className="text-left mb-4 font-bold">Fill in the fields below to obtain a special offer of 30% OFF</h3>
 
             <div id="mlb2-5795111" className="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
                     <div className="ml-form-align-center">

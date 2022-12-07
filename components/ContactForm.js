@@ -2,7 +2,7 @@ export default function ContactForm() {
     return(
         
         <div className="md:mt-20 mt-16 mx-auto">
-            <h3 className="text-center">Fill in the fields below to obtain our Black Friday special offer</h3>
+            <h3 className="text-center">Fill in the fields below to obtain a special offer of 30% OFF</h3>
 
             <div id="mlb2-5795111" className="text-center ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
                     <div className="ml-form-align-center">
